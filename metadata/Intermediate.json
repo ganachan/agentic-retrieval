@@ -1,0 +1,60 @@
+{
+  "video_id": "intermediate-intermediate",
+  "title": "Training Video",
+  "description": "Training video: Training Video - Intermediate level content for comprehensive learning",
+  "category": "intermediate",
+  "duration_seconds": 300,
+  "thumbnail_url": "",
+  "video_url": "https://mariagana.blob.core.windows.net/training-videos/Intermediate.mp4",
+  "transcript": "Training content covering training video. This intermediate-level course provides comprehensive instruction on the topic.",
+  "topics": [
+    "training",
+    "tutorial",
+    "video"
+  ],
+  "learning_objectives": [
+    "Master intermediate techniques in training video",
+    "Analyze complex scenarios and develop solutions",
+    "Integrate concepts with existing knowledge"
+  ],
+  "prerequisites": [
+    "Basic understanding of core concepts",
+    "Completion of beginner-level training"
+  ],
+  "difficulty_level": "intermediate",
+  "instructor": "Training Expert",
+  "created_date": "2024-10-21T00:00:00Z",
+  "updated_date": "2024-10-21T00:00:00Z",
+  "tags": [
+    "training",
+    "intermediate",
+    "tutorial",
+    "video"
+  ],
+  "chapters": [
+    {
+      "title": "Review & Setup",
+      "start_time": 0,
+      "end_time": 300,
+      "description": "Prerequisites review and setup"
+    },
+    {
+      "title": "Advanced Concepts",
+      "start_time": 300,
+      "end_time": 1000,
+      "description": "Intermediate-level concepts and techniques"
+    },
+    {
+      "title": "Case Studies",
+      "start_time": 1000,
+      "end_time": 1400,
+      "description": "Real-world applications and case studies"
+    },
+    {
+      "title": "Best Practices",
+      "start_time": 1400,
+      "end_time": 1800,
+      "description": "Industry best practices and next steps"
+    }
+  ]
+}

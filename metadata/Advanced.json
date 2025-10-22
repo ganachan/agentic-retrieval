@@ -1,0 +1,61 @@
+{
+  "video_id": "advanced-advanced",
+  "title": "Training Video",
+  "description": "Training video: Training Video - Advanced level content for comprehensive learning",
+  "category": "advanced",
+  "duration_seconds": 300,
+  "thumbnail_url": "",
+  "video_url": "https://mariagana.blob.core.windows.net/training-videos/Advanced.mp4",
+  "transcript": "Training content covering training video. This advanced-level course provides comprehensive instruction on the topic.",
+  "topics": [
+    "training",
+    "tutorial",
+    "video"
+  ],
+  "learning_objectives": [
+    "Achieve expert-level proficiency in training video",
+    "Develop innovative approaches and strategies",
+    "Lead implementation and mentor others"
+  ],
+  "prerequisites": [
+    "Intermediate certification",
+    "Practical experience",
+    "Strong foundational knowledge"
+  ],
+  "difficulty_level": "advanced",
+  "instructor": "Training Expert",
+  "created_date": "2024-10-21T00:00:00Z",
+  "updated_date": "2024-10-21T00:00:00Z",
+  "tags": [
+    "video",
+    "training",
+    "tutorial",
+    "advanced"
+  ],
+  "chapters": [
+    {
+      "title": "Expert Overview",
+      "start_time": 0,
+      "end_time": 240,
+      "description": "Advanced concepts overview"
+    },
+    {
+      "title": "Deep Dive Analysis",
+      "start_time": 240,
+      "end_time": 1080,
+      "description": "In-depth technical analysis"
+    },
+    {
+      "title": "Advanced Techniques",
+      "start_time": 1080,
+      "end_time": 1560,
+      "description": "Expert-level techniques and strategies"
+    },
+    {
+      "title": "Innovation & Leadership",
+      "start_time": 1560,
+      "end_time": 1800,
+      "description": "Innovation approaches and leadership aspects"
+    }
+  ]
+}

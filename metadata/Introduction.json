@@ -1,0 +1,57 @@
+{
+  "video_id": "beginner-introduction",
+  "title": "Introduction",
+  "description": "Training video: Introduction - Beginner level content for comprehensive learning",
+  "category": "beginner",
+  "duration_seconds": 300,
+  "thumbnail_url": "",
+  "video_url": "https://mariagana.blob.core.windows.net/training-videos/Introduction.mp4",
+  "transcript": "Training content covering introduction. This beginner-level course provides comprehensive instruction on the topic.",
+  "topics": [
+    "training",
+    "tutorial",
+    "introduction"
+  ],
+  "learning_objectives": [
+    "Understand the fundamentals of introduction",
+    "Apply basic concepts in practical scenarios",
+    "Identify key principles and best practices"
+  ],
+  "prerequisites": [],
+  "difficulty_level": "beginner",
+  "instructor": "Training Expert",
+  "created_date": "2024-10-21T00:00:00Z",
+  "updated_date": "2024-10-21T00:00:00Z",
+  "tags": [
+    "training",
+    "beginner",
+    "tutorial",
+    "introduction"
+  ],
+  "chapters": [
+    {
+      "title": "Course Introduction",
+      "start_time": 0,
+      "end_time": 180,
+      "description": "Welcome and overview of Introduction"
+    },
+    {
+      "title": "Basic Concepts",
+      "start_time": 180,
+      "end_time": 900,
+      "description": "Fundamental principles and concepts"
+    },
+    {
+      "title": "Practical Examples",
+      "start_time": 900,
+      "end_time": 1200,
+      "description": "Step-by-step examples and demonstrations"
+    },
+    {
+      "title": "Practice & Summary",
+      "start_time": 1200,
+      "end_time": 1500,
+      "description": "Practice exercises and key takeaways"
+    }
+  ]
+}
